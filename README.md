@@ -12,6 +12,8 @@
 
 The invitation link for this week is:
 
+https://classroom.github.com/a/hzU1GWtd
+
 ## Description
 
 This assignment will include two parts:
@@ -40,5 +42,7 @@ A skeleton Jupyter notebook is available in this repository that will walk you t
 We'll be using GitHub for assignment submission again. You can set up your own private repository on GitHub for this assignment using the link below.
 
 The invitation link for this week is:
+
+https://classroom.github.com/a/hzU1GWtd
 
 The assignment should be added to this GitHub repository before the deadline. You can add files to the repository through the web (github.com) interface or using the command line locally on your machine.
